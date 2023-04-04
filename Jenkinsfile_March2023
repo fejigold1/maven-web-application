@@ -32,6 +32,6 @@ Build is done.
 
 FEJIGOLD''', recipientProviders: [developers(), upstreamDevelopers(), contributor()], subject: 'Build Status', to: 'ofejiroosanebi12@gmail.com'
 }
-/*
+*/
 }
 }
