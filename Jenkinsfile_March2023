@@ -34,3 +34,4 @@ FEJIGOLD''', recipientProviders: [developers(), upstreamDevelopers(), contributo
 }
 /*
 }
+}
